@@ -56,3 +56,34 @@ Primary User:
 
 Remember, this profile is a starting point. You'll refine it as you gather more information and interact with actual users during the validation phase.
 
+## 3. Utopian Features: Envisioning Your Product's Future
+
+### Why It Matters
+Imagining the most ambitious version of your product can inspire creativity, drive motivation, and set long-term goals (_Imagination limit: within 2 years_). While not all features may be immediately achievable, they provide a roadmap for future development and help prioritize your efforts.
+
+### Utopian Feature Template
+List 10 ambitious features for your product, ordered by priority of user-utility (_not technically most prioritized_):
+
+```
+1. [Feature name]: [Brief description - max 10 words]
+2. [Feature name]: [Brief description - max 10 words]
+3. [Feature name]: [Brief description - max 10 words]
+4. [Feature name]: [Brief description - max 10 words]
+5. [Feature name]: [Brief description - max 10 words]
+6. [Feature name]: [Brief description - max 10 words]
+7. [Feature name]: [Brief description - max 10 words]
+8. [Feature name]: [Brief description - max 10 words]
+9. [Feature name]: [Brief description - max 10 words]
+10. [Feature name]: [Brief description - max 10 words]
+```
+
+### Guidelines
+1. **Think big**: Don't limit yourself to current technological constraints.
+2. **Stay relevant**: Ensure features align with your core problem and user needs.
+3. **Balance innovation and feasibility**: Aim for ambitious yet potentially achievable ideas.
+4. **Consider scalability**: Think about how features could grow with your user base.
+5. **Prioritize impact**: Order features based on potential value to users and your business.
+
+Remember, these utopian features set a vision for your product's future. Use them to guide your long-term strategy as you develop your initial MVP.
+
+\* P.S. Prioritize based on problem-solving impact and user value. Do not prioritize based on technical complexity, ease of implementation, or "coolness factor". Avoid giving precedence to features that rely heavily on network effects or social proof before establishing a user base. Focus on core functionalities that directly address your identified problem.
