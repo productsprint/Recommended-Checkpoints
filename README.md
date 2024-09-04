@@ -1,6 +1,6 @@
 # Recommended-Checkpoints
 
-## Problem Identification: The Foundation of Your Startup
+## Problem Identification: The Foundation of Your Product
 
 ### Why It Matters
 
