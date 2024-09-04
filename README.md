@@ -87,3 +87,34 @@ List 10 ambitious features for your product, ordered by priority of user-utility
 Remember, these utopian features set a vision for your product's future. Use them to guide your long-term strategy as you develop your initial MVP.
 
 \* P.S. Prioritize based on problem-solving impact and user value. Do not prioritize based on technical complexity, ease of implementation, or "coolness factor". Avoid giving precedence to features that rely heavily on network effects or social proof before establishing a user base. Focus on core functionalities that directly address your identified problem.
+
+## 4. Minimum Viable Features: Pruning To Your Core Product
+
+### Why It Matters
+Identifying your Minimum Viable Features (MVF) or Minimum Sellable Features (MSF) is crucial for launching quickly and efficiently. These core features allow you to enter the market, start collecting users, and gather valuable feedback without overcomplicating your initial product.
+
+### MVF/MSF Template
+List at most 3 core features (stick to 3, the less the better) that form the foundation of your minimum viable product:
+
+```
+1. [Feature name]: [Brief description - max 10 words]
+   - Key benefit: [One sentence explaining the main user value]
+   - Implementation priority: [High/Medium/Low]
+
+2. [Feature name]: [Brief description - max 10 words]
+   - Key benefit: [One sentence explaining the main user value]
+   - Implementation priority: [High/Medium/Low]
+
+3. [Feature name]: [Brief description - max 10 words]
+   - Key benefit: [One sentence explaining the main user value]
+   - Implementation priority: [High/Medium/Low]
+```
+
+### Guidelines
+1. **Focus on essentials**: Choose features that directly address your core problem.
+2. **Prioritize user value**: Select features that provide immediate benefits to early adopters.
+3. **Keep it simple**: Avoid complex features that could delay your launch.
+4. **Consider feasibility**: Ensure these features can be developed with your current resources.
+
+Remember, your MVP is just the starting point. These core features should allow you to enter the market quickly and start gathering real-world feedback for future iterations.
+
